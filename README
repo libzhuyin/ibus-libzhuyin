@@ -1,6 +1,0 @@
-ibus-libzhuyin
-
-New Zhuyin engine based on libzhuyin for IBus
-
-Description
-It includes a Chinese Zhuyin (Bopomofo) input method based on libzhuyin for IBus.
