@@ -2,20 +2,23 @@
 # Copyright (C) YEAR Peng Wu <alexepico@gmail.com>
 # This file is distributed under the same license as the ibus-libzhuyin package.
 # Peng Wu <alexepico@gmail.com>, 2015.
-#
+# Peng Wu <pwu@redhat.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: ibus-libpinyin 1.2.99\n"
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2022-09-15 15:55+0800\n"
-"PO-Revision-Date: 2018-01-04 15:27+0800\n"
-"Last-Translator: Peng Huang <shawn.p.huang@gmail.com>\n"
-"Language-Team: Peng Huang <shawn.p.huang@gmail.com>\n"
+"PO-Revision-Date: 2022-10-09 01:24+0000\n"
+"Last-Translator: Peng Wu <pwu@redhat.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
+"projects/ibus-libzhuyin/main/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: src/ZYZhuyinProperties.cc:39 src/ZYZhuyinProperties.cc:92
 msgid "Chinese"
@@ -180,7 +183,7 @@ msgstr "输入"
 
 #: setup/ibus-libzhuyin-preferences.ui:271
 msgid "Keyboard Layout"
-msgstr "键盘布局："
+msgstr "键盘布局"
 
 #: setup/ibus-libzhuyin-preferences.ui:285
 msgid "Candidate Choose Keys"
@@ -192,7 +195,7 @@ msgstr "候选词每页显示个数"
 
 #: setup/ibus-libzhuyin-preferences.ui:369
 msgid "Require tone information"
-msgstr ""
+msgstr "输入音调"
 
 #: setup/ibus-libzhuyin-preferences.ui:397
 msgid "Keyboard"
@@ -204,43 +207,43 @@ msgstr "启动模糊音"
 
 #: setup/ibus-libzhuyin-preferences.ui:430
 msgid "l <=> n"
-msgstr ""
+msgstr "l <=> n"
 
 #: setup/ibus-libzhuyin-preferences.ui:447
 msgid "f <=> h"
-msgstr ""
+msgstr "f <=> h"
 
 #: setup/ibus-libzhuyin-preferences.ui:464
 msgid "l <=> r"
-msgstr ""
+msgstr "l <=> r"
 
 #: setup/ibus-libzhuyin-preferences.ui:481
 msgid "g <=> k"
-msgstr ""
+msgstr "g <=> k"
 
 #: setup/ibus-libzhuyin-preferences.ui:498
 msgid "c <=> ch"
-msgstr ""
+msgstr "c <=> ch"
 
 #: setup/ibus-libzhuyin-preferences.ui:515
 msgid "z <=> zh"
-msgstr ""
+msgstr "z <=> zh"
 
 #: setup/ibus-libzhuyin-preferences.ui:532
 msgid "s <=> sh"
-msgstr ""
+msgstr "s <=> sh"
 
 #: setup/ibus-libzhuyin-preferences.ui:549
 msgid "an <=> ang"
-msgstr ""
+msgstr "an <=> ang"
 
 #: setup/ibus-libzhuyin-preferences.ui:566
 msgid "in <=> ing"
-msgstr ""
+msgstr "in <=> ing"
 
 #: setup/ibus-libzhuyin-preferences.ui:583
 msgid "en <=> eng"
-msgstr ""
+msgstr "en <=> eng"
 
 #: setup/ibus-libzhuyin-preferences.ui:616
 msgid "Fuzzy Zhuyin"
@@ -286,7 +289,7 @@ msgstr ""
 "<b>词典文件格式:</b>\n"
 "   每一行包含:\n"
 "      \"短语 注音\"\n"
-"   例如 \"你好 ㄋㄧˇ ㄏㄠˇ\""
+"   例如 \"你好 ㄋㄧˇ ㄏㄠˇ\"。"
 
 #: setup/ibus-libzhuyin-preferences.ui:822
 msgid "Help"
@@ -333,11 +336,11 @@ msgstr "关于"
 
 #: data/ibus-setup-libzhuyin.desktop.in:3
 msgid "IBus LibZhuyin Setup"
-msgstr ""
+msgstr "IBus 新注音设置工具"
 
 #: data/ibus-setup-libzhuyin.desktop.in:4
 msgid "Set ibus-libzhuyin Preferences"
-msgstr ""
+msgstr "设置 IBus 新注音首选项"
 
 #~ msgid "Full Width Letter"
 #~ msgstr "全角字母"
