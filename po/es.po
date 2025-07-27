@@ -11,7 +11,8 @@ msgstr ""
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
 "PO-Revision-Date: 2025-07-25 09:52+0000\n"
-"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -105,7 +106,7 @@ msgstr "Nuevo método de entrada Zhuyin (debug)"
 
 #: setup/main.py:281
 msgid "Please choose a file"
-msgstr ""
+msgstr "Elija un archivo"
 
 #: setup/main.py:307
 #, python-format
@@ -126,19 +127,19 @@ msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:33
 msgid "IBM"
-msgstr ""
+msgstr "IBM"
 
 #: setup/ibus-libzhuyin-preferences.ui:38
 msgid "GinYieh"
-msgstr ""
+msgstr "GinYieh"
 
 #: setup/ibus-libzhuyin-preferences.ui:43
 msgid "Eten"
-msgstr ""
+msgstr "Eten"
 
 #: setup/ibus-libzhuyin-preferences.ui:48
 msgid "Eten26"
-msgstr ""
+msgstr "eten26"
 
 #: setup/ibus-libzhuyin-preferences.ui:53
 #, fuzzy
@@ -212,7 +213,7 @@ msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:397
 msgid "Keyboard"
-msgstr ""
+msgstr "Teclado"
 
 #: setup/ibus-libzhuyin-preferences.ui:412
 #, fuzzy
@@ -318,7 +319,7 @@ msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:822
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 #: setup/ibus-libzhuyin-preferences.ui:883
 #, fuzzy
@@ -348,7 +349,7 @@ msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:965
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: data/ibus-setup-libzhuyin.desktop.in:3
 msgid "IBus LibZhuyin Setup"
