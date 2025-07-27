@@ -10,9 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
-"PO-Revision-Date: 2025-07-26 09:53+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"PO-Revision-Date: 2025-07-27 11:53+0000\n"
+"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -190,14 +189,13 @@ msgstr "Disposición de teclado"
 #: setup/ibus-libzhuyin-preferences.ui:285
 #, fuzzy
 msgid "Candidate Choose Keys"
-msgstr "Candidato Elija Teclas"
+msgstr "Teclas Elegidas del Candidato"
 
 #: setup/ibus-libzhuyin-preferences.ui:319
 msgid "Candidates per Page"
 msgstr "Candidato por Página"
 
 #: setup/ibus-libzhuyin-preferences.ui:369
-#, fuzzy
 msgid "Require tone information"
 msgstr "Requiere información de tono"
 
@@ -230,7 +228,6 @@ msgid "c <=> ch"
 msgstr "c <=> ch"
 
 #: setup/ibus-libzhuyin-preferences.ui:515
-#, fuzzy
 msgid "z <=> zh"
 msgstr "z <=> zh"
 
