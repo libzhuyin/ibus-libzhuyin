@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the ibus-libzhuyin package.
 # Emilio Herrera <ehespinosa57@gmail.com>, 2025.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# "Fco. Javier F. Serrador" <fserrador@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: ibus-libzhuyin 1.10.2\n"
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
-"PO-Revision-Date: 2025-07-17 11:53+0000\n"
-"Last-Translator: Emilio Herrera <ehespinosa57@gmail.com>\n"
+"PO-Revision-Date: 2025-07-25 09:44+0000\n"
+"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -49,14 +50,17 @@ msgid "Switch to Half Width Mode"
 msgstr "Cambiar al Modo de Medio Ancho"
 
 #: src/ZYZhuyinProperties.cc:57 src/ZYZhuyinProperties.cc:121
+#, fuzzy
 msgid "Switch to Full Width Mode"
-msgstr ""
+msgstr "Intercambiar a Modo de Anchura Completa"
 
 #: src/ZYZhuyinProperties.cc:61 src/ZYZhuyinProperties.cc:130
+#, fuzzy
 msgid "Traditional Chinese"
 msgstr ""
 
 #: src/ZYZhuyinProperties.cc:62 src/ZYZhuyinProperties.cc:131
+#, fuzzy
 msgid "Simplified Chinese"
 msgstr ""
 
