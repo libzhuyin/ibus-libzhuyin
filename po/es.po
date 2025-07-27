@@ -10,9 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
-"PO-Revision-Date: 2025-07-25 09:46+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"PO-Revision-Date: 2025-07-25 09:52+0000\n"
+"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -80,24 +79,29 @@ msgid "Preferences"
 msgstr ""
 
 #: src/ZYZhuyinProperties.cc:76 src/ZYZhuyinProperties.cc:96
+#, fuzzy
 msgid "中"
-msgstr ""
+msgstr "中"
 
 #: src/ZYZhuyinProperties.cc:78 src/ZYZhuyinProperties.cc:98
+#, fuzzy
 msgid "英"
-msgstr ""
+msgstr "英"
 
 #: src/ZYMain.cc:98
+#, fuzzy
 msgid "Libzhuyin input method"
-msgstr ""
+msgstr "Método Libzhuyin de entrada"
 
 #: src/ZYMain.cc:108
+#, fuzzy
 msgid "New Zhuyin (debug)"
-msgstr ""
+msgstr "Nuevo Zhuyin (debug)"
 
 #: src/ZYMain.cc:109
+#, fuzzy
 msgid "New Zhuyin input method (debug)"
-msgstr ""
+msgstr "Nuevo método de entrada Zhuyin (debug)"
 
 #: setup/main.py:281
 msgid "Please choose a file"
@@ -137,12 +141,14 @@ msgid "Eten26"
 msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:53
+#, fuzzy
 msgid "Standard Dvorak"
-msgstr ""
+msgstr "Dvorak Estándar"
 
 #: setup/ibus-libzhuyin-preferences.ui:58
+#, fuzzy
 msgid "HSU Dvorak"
-msgstr ""
+msgstr "Dvorak HSU"
 
 #: setup/ibus-libzhuyin-preferences.ui:63
 msgid "DaChen CP26"
@@ -209,56 +215,68 @@ msgid "Keyboard"
 msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:412
+#, fuzzy
 msgid "Enable Fuzzy Zhuyin"
-msgstr ""
+msgstr "Activar Zhuyin Difuso"
 
 #: setup/ibus-libzhuyin-preferences.ui:430
+#, fuzzy
 msgid "l <=> n"
-msgstr ""
+msgstr "l <=> n"
 
 #: setup/ibus-libzhuyin-preferences.ui:447
+#, fuzzy
 msgid "f <=> h"
-msgstr ""
+msgstr "f <=> h"
 
 #: setup/ibus-libzhuyin-preferences.ui:464
+#, fuzzy
 msgid "l <=> r"
-msgstr ""
+msgstr "l <=> r"
 
 #: setup/ibus-libzhuyin-preferences.ui:481
+#, fuzzy
 msgid "g <=> k"
-msgstr ""
+msgstr "g <=> k"
 
 #: setup/ibus-libzhuyin-preferences.ui:498
+#, fuzzy
 msgid "c <=> ch"
-msgstr ""
+msgstr "c <=> ch"
 
 #: setup/ibus-libzhuyin-preferences.ui:515
+#, fuzzy
 msgid "z <=> zh"
-msgstr ""
+msgstr "z <=> zh"
 
 #: setup/ibus-libzhuyin-preferences.ui:532
+#, fuzzy
 msgid "s <=> sh"
-msgstr ""
+msgstr "s <=> sh"
 
 #: setup/ibus-libzhuyin-preferences.ui:549
+#, fuzzy
 msgid "an <=> ang"
-msgstr ""
+msgstr "an <=> ang"
 
 #: setup/ibus-libzhuyin-preferences.ui:566
+#, fuzzy
 msgid "in <=> ing"
-msgstr ""
+msgstr "in <=> ing"
 
 #: setup/ibus-libzhuyin-preferences.ui:583
+#, fuzzy
 msgid "en <=> eng"
-msgstr ""
+msgstr "en <=> eng"
 
 #: setup/ibus-libzhuyin-preferences.ui:616
+#, fuzzy
 msgid "Fuzzy Zhuyin"
-msgstr ""
+msgstr "Zhuyin Difuso"
 
 #: setup/ibus-libzhuyin-preferences.ui:638
 msgid "User Symbols"
-msgstr ""
+msgstr "Símbolos de Usuario"
 
 #: setup/ibus-libzhuyin-preferences.ui:654
 #: setup/ibus-libzhuyin-preferences.ui:697
@@ -286,8 +304,9 @@ msgid "Import"
 msgstr "Importar"
 
 #: setup/ibus-libzhuyin-preferences.ui:780
+#, fuzzy
 msgid "Clear All Data"
-msgstr "Vaciar todos los datos"
+msgstr "Vaciar Todos los Datos"
 
 #: setup/ibus-libzhuyin-preferences.ui:811
 msgid ""
@@ -302,8 +321,9 @@ msgid "Help"
 msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:883
+#, fuzzy
 msgid "<big><b>IBus Zhuyin %s</b></big>"
-msgstr ""
+msgstr "<big><b>IBus Zhuyin %s</b></big>"
 
 #: setup/ibus-libzhuyin-preferences.ui:896
 msgid "New Zhuyin input method for IBus"
@@ -335,5 +355,6 @@ msgid "IBus LibZhuyin Setup"
 msgstr ""
 
 #: data/ibus-setup-libzhuyin.desktop.in:4
+#, fuzzy
 msgid "Set ibus-libzhuyin Preferences"
-msgstr ""
+msgstr "Establecer Preferencias ibus-libzhuyin"
