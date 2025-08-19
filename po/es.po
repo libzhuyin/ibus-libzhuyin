@@ -9,9 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
-"PO-Revision-Date: 2025-07-16 11:45+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"PO-Revision-Date: 2025-07-17 11:53+0000\n"
+"Last-Translator: Emilio Herrera <ehespinosa57@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -31,23 +30,23 @@ msgstr "Inglés"
 
 #: src/ZYZhuyinProperties.cc:45 src/ZYZhuyinProperties.cc:104
 msgid "Switch to English Mode"
-msgstr "Cambiar a modo inglés"
+msgstr "Cambiar a Modo Inglés"
 
 #: src/ZYZhuyinProperties.cc:46 src/ZYZhuyinProperties.cc:105
 msgid "Switch to Chinese Mode"
-msgstr ""
+msgstr "Cambiar a Modo Chino"
 
 #: src/ZYZhuyinProperties.cc:50 src/ZYZhuyinProperties.cc:114
 msgid "Full Width"
-msgstr ""
+msgstr "Ancho Completo"
 
 #: src/ZYZhuyinProperties.cc:51 src/ZYZhuyinProperties.cc:115
 msgid "Half Width"
-msgstr ""
+msgstr "Medio Ancho"
 
 #: src/ZYZhuyinProperties.cc:56 src/ZYZhuyinProperties.cc:120
 msgid "Switch to Half Width Mode"
-msgstr ""
+msgstr "Cambiar al Modo de Medio Ancho"
 
 #: src/ZYZhuyinProperties.cc:57 src/ZYZhuyinProperties.cc:121
 msgid "Switch to Full Width Mode"
