@@ -11,7 +11,8 @@ msgstr ""
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
 "PO-Revision-Date: 2025-07-26 09:53+0000\n"
-"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -71,15 +72,13 @@ msgstr "Intercambiar a Modo Chino Tradicional"
 
 #: src/ZYZhuyinProperties.cc:71 src/ZYZhuyinProperties.cc:73
 msgid "Preferences"
-msgstr ""
+msgstr "Preferencias"
 
 #: src/ZYZhuyinProperties.cc:76 src/ZYZhuyinProperties.cc:96
-#, fuzzy
 msgid "中"
 msgstr "中"
 
 #: src/ZYZhuyinProperties.cc:78 src/ZYZhuyinProperties.cc:98
-#, fuzzy
 msgid "英"
 msgstr "英"
 
@@ -110,7 +109,7 @@ msgstr "Nuevo Zhuyin"
 
 #: setup/ibus-libzhuyin-preferences.ui:23
 msgid "Standard"
-msgstr ""
+msgstr "Estándar"
 
 #: setup/ibus-libzhuyin-preferences.ui:28
 msgid "HSU"
@@ -146,7 +145,7 @@ msgstr "DaChen CP26"
 
 #: setup/ibus-libzhuyin-preferences.ui:68
 msgid "Hanyu Pinyin"
-msgstr ""
+msgstr "Hanyu Pinyin"
 
 #: setup/ibus-libzhuyin-preferences.ui:73
 msgid "Luoma Pinyin"
@@ -186,7 +185,7 @@ msgstr "Entrada pendiente"
 
 #: setup/ibus-libzhuyin-preferences.ui:271
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Disposición de teclado"
 
 #: setup/ibus-libzhuyin-preferences.ui:285
 #, fuzzy
