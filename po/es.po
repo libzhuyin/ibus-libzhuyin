@@ -1,0 +1,343 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the ibus-libzhuyin package.
+# Emilio Herrera <ehespinosa57@gmail.com>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# "Fco. Javier F. Serrador" <fserrador@gmail.com>, 2025.
+msgid ""
+msgstr ""
+"Project-Id-Version: ibus-libzhuyin 1.10.2\n"
+"Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
+"new\n"
+"POT-Creation-Date: 2023-01-16 14:39+0800\n"
+"PO-Revision-Date: 2025-08-19 04:50+0000\n"
+"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
+"ibus-libzhuyin/main/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13\n"
+
+#: src/ZYZhuyinProperties.cc:39 src/ZYZhuyinProperties.cc:92
+msgid "Chinese"
+msgstr "Chino"
+
+#: src/ZYZhuyinProperties.cc:40 src/ZYZhuyinProperties.cc:93
+msgid "English"
+msgstr "Inglés"
+
+#: src/ZYZhuyinProperties.cc:45 src/ZYZhuyinProperties.cc:104
+msgid "Switch to English Mode"
+msgstr "Cambiar a Modo Inglés"
+
+#: src/ZYZhuyinProperties.cc:46 src/ZYZhuyinProperties.cc:105
+msgid "Switch to Chinese Mode"
+msgstr "Cambiar a Modo Chino"
+
+#: src/ZYZhuyinProperties.cc:50 src/ZYZhuyinProperties.cc:114
+msgid "Full Width"
+msgstr "Ancho Completo"
+
+#: src/ZYZhuyinProperties.cc:51 src/ZYZhuyinProperties.cc:115
+msgid "Half Width"
+msgstr "Medio Ancho"
+
+#: src/ZYZhuyinProperties.cc:56 src/ZYZhuyinProperties.cc:120
+msgid "Switch to Half Width Mode"
+msgstr "Cambiar al Modo de Medio Ancho"
+
+#: src/ZYZhuyinProperties.cc:57 src/ZYZhuyinProperties.cc:121
+msgid "Switch to Full Width Mode"
+msgstr "Intercambiar a Modo de Ancho Completo"
+
+#: src/ZYZhuyinProperties.cc:61 src/ZYZhuyinProperties.cc:130
+msgid "Traditional Chinese"
+msgstr "Chino tradicional"
+
+#: src/ZYZhuyinProperties.cc:62 src/ZYZhuyinProperties.cc:131
+msgid "Simplified Chinese"
+msgstr "Chino simplificado"
+
+#: src/ZYZhuyinProperties.cc:67 src/ZYZhuyinProperties.cc:136
+msgid "Switch to Simplfied Chinese Mode"
+msgstr "Intercambiar a Modo Chino Simplificado"
+
+#: src/ZYZhuyinProperties.cc:68 src/ZYZhuyinProperties.cc:137
+msgid "Switch to Traditional Chinese Mode"
+msgstr "Intercambiar a Modo Chino Tradicional"
+
+#: src/ZYZhuyinProperties.cc:71 src/ZYZhuyinProperties.cc:73
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: src/ZYZhuyinProperties.cc:76 src/ZYZhuyinProperties.cc:96
+msgid "中"
+msgstr "中"
+
+#: src/ZYZhuyinProperties.cc:78 src/ZYZhuyinProperties.cc:98
+msgid "英"
+msgstr "英"
+
+#: src/ZYMain.cc:98
+msgid "Libzhuyin input method"
+msgstr "Método Libzhuyin de entrada"
+
+#: src/ZYMain.cc:108
+msgid "New Zhuyin (debug)"
+msgstr "Nuevo Zhuyin (debug)"
+
+#: src/ZYMain.cc:109
+msgid "New Zhuyin input method (debug)"
+msgstr "Nuevo método de entrada Zhuyin (debug)"
+
+#: setup/main.py:281
+msgid "Please choose a file"
+msgstr "Elija un archivo"
+
+#: setup/main.py:307
+#, python-format
+msgid "<big><b>New Zhuyin %s</b></big>"
+msgstr "<big><b>Nuevo Zhuyin %s</b></big>"
+
+#: setup/config.py:29
+msgid "New Zhuyin"
+msgstr "Nuevo Zhuyin"
+
+#: setup/ibus-libzhuyin-preferences.ui:23
+msgid "Standard"
+msgstr "Estándar"
+
+#: setup/ibus-libzhuyin-preferences.ui:28
+msgid "HSU"
+msgstr "HSU"
+
+#: setup/ibus-libzhuyin-preferences.ui:33
+msgid "IBM"
+msgstr "IBM"
+
+#: setup/ibus-libzhuyin-preferences.ui:38
+msgid "GinYieh"
+msgstr "GinYieh"
+
+#: setup/ibus-libzhuyin-preferences.ui:43
+msgid "Eten"
+msgstr "Eten"
+
+#: setup/ibus-libzhuyin-preferences.ui:48
+msgid "Eten26"
+msgstr "eten26"
+
+#: setup/ibus-libzhuyin-preferences.ui:53
+msgid "Standard Dvorak"
+msgstr "Dvorak Estándar"
+
+#: setup/ibus-libzhuyin-preferences.ui:58
+msgid "HSU Dvorak"
+msgstr "Dvorak HSU"
+
+#: setup/ibus-libzhuyin-preferences.ui:63
+msgid "DaChen CP26"
+msgstr "DaChen CP26"
+
+#: setup/ibus-libzhuyin-preferences.ui:68
+msgid "Hanyu Pinyin"
+msgstr "Hanyu Pinyin"
+
+#: setup/ibus-libzhuyin-preferences.ui:73
+msgid "Luoma Pinyin"
+msgstr "Luoma Pinyin"
+
+#: setup/ibus-libzhuyin-preferences.ui:78
+msgid "Secondary Bopomofo"
+msgstr "Bopomofo Secundario"
+
+#: setup/ibus-libzhuyin-preferences.ui:134
+msgid "Use Chinese Mode When Start-up"
+msgstr "Utilizar Modo Chino cuando arranque"
+
+#: setup/ibus-libzhuyin-preferences.ui:152
+msgid "Use Full Width When Start-up"
+msgstr "Utilizar Anchura Completa cuando Arranque"
+
+#: setup/ibus-libzhuyin-preferences.ui:170
+msgid "Use Traditional Chinese When Start-up"
+msgstr "Utilizar Chino Tradicional cuando arranque"
+
+#: setup/ibus-libzhuyin-preferences.ui:188
+msgid "Always Input Numbers by Input Pad"
+msgstr "Siempre Números de Entrada por Entrada Pad"
+
+#: setup/ibus-libzhuyin-preferences.ui:206
+msgid "Use Space Key to Show Candidates"
+msgstr "Utilizar Tecla Espacio para Mostrar Candidatos"
+
+#: setup/ibus-libzhuyin-preferences.ui:224
+msgid "Show Candidates After the Cursor"
+msgstr "Mostrar Candidatos Tras el Cursor"
+
+#: setup/ibus-libzhuyin-preferences.ui:246
+msgid "Inputting"
+msgstr "Entrada pendiente"
+
+#: setup/ibus-libzhuyin-preferences.ui:271
+msgid "Keyboard Layout"
+msgstr "Disposición de teclado"
+
+#: setup/ibus-libzhuyin-preferences.ui:285
+msgid "Candidate Choose Keys"
+msgstr "Teclas Elegidas del Candidato"
+
+#: setup/ibus-libzhuyin-preferences.ui:319
+msgid "Candidates per Page"
+msgstr "Candidato por Página"
+
+#: setup/ibus-libzhuyin-preferences.ui:369
+msgid "Require tone information"
+msgstr "Requiere información de tono"
+
+#: setup/ibus-libzhuyin-preferences.ui:397
+msgid "Keyboard"
+msgstr "Teclado"
+
+#: setup/ibus-libzhuyin-preferences.ui:412
+msgid "Enable Fuzzy Zhuyin"
+msgstr "Activar Zhuyin Difuso"
+
+#: setup/ibus-libzhuyin-preferences.ui:430
+msgid "l <=> n"
+msgstr "l <=> n"
+
+#: setup/ibus-libzhuyin-preferences.ui:447
+msgid "f <=> h"
+msgstr "f <=> h"
+
+#: setup/ibus-libzhuyin-preferences.ui:464
+msgid "l <=> r"
+msgstr "l <=> r"
+
+#: setup/ibus-libzhuyin-preferences.ui:481
+msgid "g <=> k"
+msgstr "g <=> k"
+
+#: setup/ibus-libzhuyin-preferences.ui:498
+msgid "c <=> ch"
+msgstr "c <=> ch"
+
+#: setup/ibus-libzhuyin-preferences.ui:515
+msgid "z <=> zh"
+msgstr "z <=> zh"
+
+#: setup/ibus-libzhuyin-preferences.ui:532
+msgid "s <=> sh"
+msgstr "s <=> sh"
+
+#: setup/ibus-libzhuyin-preferences.ui:549
+msgid "an <=> ang"
+msgstr "an <=> ang"
+
+#: setup/ibus-libzhuyin-preferences.ui:566
+msgid "in <=> ing"
+msgstr "in <=> ing"
+
+#: setup/ibus-libzhuyin-preferences.ui:583
+msgid "en <=> eng"
+msgstr "en <=> eng"
+
+#: setup/ibus-libzhuyin-preferences.ui:616
+msgid "Fuzzy Zhuyin"
+msgstr "Zhuyin Difuso"
+
+#: setup/ibus-libzhuyin-preferences.ui:638
+msgid "User Symbols"
+msgstr "Símbolos de Usuario"
+
+#: setup/ibus-libzhuyin-preferences.ui:654
+#: setup/ibus-libzhuyin-preferences.ui:697
+msgid "Edit"
+msgstr "Editar"
+
+#: setup/ibus-libzhuyin-preferences.ui:681
+msgid "Easy Symbols"
+msgstr "Símbolos Fáciles"
+
+#: setup/ibus-libzhuyin-preferences.ui:727
+#: setup/ibus-libzhuyin-preferences.ui:844
+msgid "User Phrases"
+msgstr "Utilizar Frases"
+
+#: setup/ibus-libzhuyin-preferences.ui:737
+msgid "Clear"
+msgstr "Vaciar"
+
+#: setup/ibus-libzhuyin-preferences.ui:752
+msgid "Import"
+msgstr "Importar"
+
+#: setup/ibus-libzhuyin-preferences.ui:780
+msgid "Clear All Data"
+msgstr "Vaciar Todos los Datos"
+
+#: setup/ibus-libzhuyin-preferences.ui:811
+msgid ""
+"<b>Dictionary File Format:</b>\n"
+"  Each line contains the following:\n"
+"    \"phrase zhuyin\"\n"
+"  like \"你好 ㄋㄧˇ ㄏㄠˇ\"."
+msgstr ""
+"<b>Formato de Archivo de Diccionario:</b>\n"
+"  Cada línea contiene lo siguiente:\n"
+"    \"phrase zhuyin\"\n"
+"  como \"你好 ㄋㄧˇ ㄏㄠˇ\"."
+
+#: setup/ibus-libzhuyin-preferences.ui:822
+msgid "Help"
+msgstr "Ayuda"
+
+#: setup/ibus-libzhuyin-preferences.ui:883
+msgid "<big><b>IBus Zhuyin %s</b></big>"
+msgstr "<big><b>IBus Zhuyin %s</b></big>"
+
+#: setup/ibus-libzhuyin-preferences.ui:896
+msgid "New Zhuyin input method for IBus"
+msgstr "Método de entrada Zhuyin para IBus"
+
+#: setup/ibus-libzhuyin-preferences.ui:908
+msgid "<small>Copyright (c) 2013-2014 Peng Wu</small>"
+msgstr "<small>Copyright © 2013-2014 Peng Wu</small>"
+
+#: setup/ibus-libzhuyin-preferences.ui:936
+msgid ""
+"<small>\n"
+"<b>Authors:</b>\n"
+"Peng Wu\n"
+"Peng Huang\n"
+"...\n"
+"\n"
+"<b>Contributors:</b>\n"
+"...\n"
+"</small>"
+msgstr ""
+"<small>\n"
+"<b>Authores:</b>\n"
+"Peng Wu\n"
+"Peng Huang\n"
+"...\n"
+"\n"
+"<b>Contribuidores:</b>\n"
+"…\n"
+"</small>"
+
+#: setup/ibus-libzhuyin-preferences.ui:965
+msgid "About"
+msgstr "Acerca de"
+
+#: data/ibus-setup-libzhuyin.desktop.in:3
+msgid "IBus LibZhuyin Setup"
+msgstr "Configuración de IBus LibZhuyin"
+
+#: data/ibus-setup-libzhuyin.desktop.in:4
+msgid "Set ibus-libzhuyin Preferences"
+msgstr "Establecer Preferencias ibus-libzhuyin"
