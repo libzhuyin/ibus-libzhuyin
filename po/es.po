@@ -10,9 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
-"PO-Revision-Date: 2025-07-25 09:45+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"PO-Revision-Date: 2025-07-25 09:46+0000\n"
+"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -66,12 +65,14 @@ msgid "Simplified Chinese"
 msgstr "Chino simplificado"
 
 #: src/ZYZhuyinProperties.cc:67 src/ZYZhuyinProperties.cc:136
+#, fuzzy
 msgid "Switch to Simplfied Chinese Mode"
-msgstr "Pasar a modo chino simplificado"
+msgstr "Intercambiar a Modo Chino Simplificado"
 
 #: src/ZYZhuyinProperties.cc:68 src/ZYZhuyinProperties.cc:137
+#, fuzzy
 msgid "Switch to Traditional Chinese Mode"
-msgstr "Pasar a modo chino tradicional"
+msgstr "Intercambiar a Modo Chino Tradicional"
 
 #: src/ZYZhuyinProperties.cc:71 src/ZYZhuyinProperties.cc:73
 msgid "Preferences"
@@ -264,17 +265,20 @@ msgid "Edit"
 msgstr ""
 
 #: setup/ibus-libzhuyin-preferences.ui:681
+#, fuzzy
 msgid "Easy Symbols"
-msgstr ""
+msgstr "Símbolos Fáciles"
 
 #: setup/ibus-libzhuyin-preferences.ui:727
 #: setup/ibus-libzhuyin-preferences.ui:844
+#, fuzzy
 msgid "User Phrases"
-msgstr ""
+msgstr "Utilizar Frases"
 
 #: setup/ibus-libzhuyin-preferences.ui:737
+#, fuzzy
 msgid "Clear"
-msgstr ""
+msgstr "Vaciar"
 
 #: setup/ibus-libzhuyin-preferences.ui:752
 msgid "Import"
