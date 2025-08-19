@@ -10,8 +10,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
-"PO-Revision-Date: 2025-07-25 09:44+0000\n"
-"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2025-07-25 09:45+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -57,20 +58,20 @@ msgstr "Intercambiar a Modo de Anchura Completa"
 #: src/ZYZhuyinProperties.cc:61 src/ZYZhuyinProperties.cc:130
 #, fuzzy
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "Chino tradicional"
 
 #: src/ZYZhuyinProperties.cc:62 src/ZYZhuyinProperties.cc:131
 #, fuzzy
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "Chino simplificado"
 
 #: src/ZYZhuyinProperties.cc:67 src/ZYZhuyinProperties.cc:136
 msgid "Switch to Simplfied Chinese Mode"
-msgstr ""
+msgstr "Pasar a modo chino simplificado"
 
 #: src/ZYZhuyinProperties.cc:68 src/ZYZhuyinProperties.cc:137
 msgid "Switch to Traditional Chinese Mode"
-msgstr ""
+msgstr "Pasar a modo chino tradicional"
 
 #: src/ZYZhuyinProperties.cc:71 src/ZYZhuyinProperties.cc:73
 msgid "Preferences"
