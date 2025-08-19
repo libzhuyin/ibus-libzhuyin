@@ -11,7 +11,8 @@ msgstr ""
 "new\n"
 "POT-Creation-Date: 2023-01-16 14:39+0800\n"
 "PO-Revision-Date: 2025-07-25 09:46+0000\n"
-"Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "ibus-libzhuyin/main/es/>\n"
 "Language: es\n"
@@ -262,7 +263,7 @@ msgstr ""
 #: setup/ibus-libzhuyin-preferences.ui:654
 #: setup/ibus-libzhuyin-preferences.ui:697
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: setup/ibus-libzhuyin-preferences.ui:681
 #, fuzzy
@@ -282,11 +283,11 @@ msgstr "Vaciar"
 
 #: setup/ibus-libzhuyin-preferences.ui:752
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: setup/ibus-libzhuyin-preferences.ui:780
 msgid "Clear All Data"
-msgstr ""
+msgstr "Vaciar todos los datos"
 
 #: setup/ibus-libzhuyin-preferences.ui:811
 msgid ""
