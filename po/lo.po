@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the ibus-libzhuyin package.
+# Bone NI <bounkirdni@gmail.com>, 2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: ibus-libzhuyin 1.10.5\n"
+"Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
+"new\n"
+"POT-Creation-Date: 2025-11-06 12:25+0800\n"
+"PO-Revision-Date: 2026-05-12 11:59+0000\n"
+"Last-Translator: Bone NI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://translate.fedoraproject.org/projects/ibus-"
+"libzhuyin/main/lo/>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
+
+#: src/ZYZhuyinProperties.cc:39 src/ZYZhuyinProperties.cc:92
+msgid "Chinese"
+msgstr "ພາສາຈີນ"
+
+#: src/ZYZhuyinProperties.cc:40 src/ZYZhuyinProperties.cc:93
+msgid "English"
+msgstr "ພາສາອັງກິດ"
+
+#: src/ZYZhuyinProperties.cc:45 src/ZYZhuyinProperties.cc:104
+msgid "Switch to English Mode"
+msgstr "ປ່ຽນເປັນໂໝດພາສາອັງກິດ"
+
+#: src/ZYZhuyinProperties.cc:46 src/ZYZhuyinProperties.cc:105
+msgid "Switch to Chinese Mode"
+msgstr "ປ່ຽນເປັນໂໝດພາສາຈີນ"
+
+#: src/ZYZhuyinProperties.cc:50 src/ZYZhuyinProperties.cc:114
+msgid "Full Width"
+msgstr "ຄວາມກວ້າງເຕັມ"
+
+#: src/ZYZhuyinProperties.cc:51 src/ZYZhuyinProperties.cc:115
+msgid "Half Width"
+msgstr "ຄວາມກວ້າງເຄິ່ງ"
+
+#: src/ZYZhuyinProperties.cc:56 src/ZYZhuyinProperties.cc:120
+msgid "Switch to Half Width Mode"
+msgstr "ປ່ຽນເປັນໂໝດຄວາມກວ້າງເຄິ່ງ"
+
+#: src/ZYZhuyinProperties.cc:57 src/ZYZhuyinProperties.cc:121
+msgid "Switch to Full Width Mode"
+msgstr "ປ່ຽນເປັນໂໝດຄວາມກວ້າງເຕັມ"
+
+#: src/ZYZhuyinProperties.cc:61 src/ZYZhuyinProperties.cc:130
+msgid "Traditional Chinese"
+msgstr "ພາສາຈີນຕົວເຕັມ"
+
+#: src/ZYZhuyinProperties.cc:62 src/ZYZhuyinProperties.cc:131
+msgid "Simplified Chinese"
+msgstr "ພາສາຈີນຕົວຫຍໍ້"
+
+#: src/ZYZhuyinProperties.cc:67 src/ZYZhuyinProperties.cc:136
+msgid "Switch to Simplfied Chinese Mode"
+msgstr "ປ່ຽນເປັນໂໝດພາສາຈີນຕົວຫຍໍ້"
+
+#: src/ZYZhuyinProperties.cc:68 src/ZYZhuyinProperties.cc:137
+msgid "Switch to Traditional Chinese Mode"
+msgstr "ປ່ຽນເປັນໂໝດພາສາຈີນຕົວເຕັມ"
+
+#: src/ZYZhuyinProperties.cc:71 src/ZYZhuyinProperties.cc:73
+msgid "Preferences"
+msgstr "ການຕັ້ງຄ່າ"
+
+#: src/ZYZhuyinProperties.cc:76 src/ZYZhuyinProperties.cc:96
+msgid "中"
+msgstr "ຈີນ"
+
+#: src/ZYZhuyinProperties.cc:78 src/ZYZhuyinProperties.cc:98
+msgid "英"
+msgstr "ອັງກິດ"
+
+#: src/ZYMain.cc:98
+msgid "Libzhuyin input method"
+msgstr "ວິທີການປ້ອນຂໍ້ມູນ Libzhuyin"
+
+#: src/ZYMain.cc:108
+msgid "New Zhuyin (debug)"
+msgstr "Zhuyin ໃໝ່ (ດີບັກ)"
+
+#: src/ZYMain.cc:109
+msgid "New Zhuyin input method (debug)"
+msgstr "ວິທີການປ້ອນຂໍ້ມູນ Zhuyin ໃໝ່ (ດີບັກ)"
+
+#: setup/main.py:281
+msgid "Please choose a file"
+msgstr "ກະລຸນາເລືອກໄຟລ໌"
+
+#: setup/main.py:307
+#, python-format
+msgid "<big><b>New Zhuyin %s</b></big>"
+msgstr "<big><b>Zhuyin ໃໝ່ %s</b></big>"
+
+#: setup/config.py:29
+msgid "New Zhuyin"
+msgstr "Zhuyin ໃໝ່"
+
+#: setup/ibus-libzhuyin-preferences.ui:23
+msgid "Standard"
+msgstr "ມາດຕະຖານ"
+
+#: setup/ibus-libzhuyin-preferences.ui:28
+msgid "HSU"
+msgstr "HSU"
+
+#: setup/ibus-libzhuyin-preferences.ui:33
+msgid "IBM"
+msgstr "IBM"
+
+#: setup/ibus-libzhuyin-preferences.ui:38
+msgid "GinYieh"
+msgstr "GinYieh"
+
+#: setup/ibus-libzhuyin-preferences.ui:43
+msgid "Eten"
+msgstr "Eten"
+
+#: setup/ibus-libzhuyin-preferences.ui:48
+msgid "Eten26"
+msgstr "Eten26"
+
+#: setup/ibus-libzhuyin-preferences.ui:53
+msgid "Standard Dvorak"
+msgstr "Dvorak ມາດຕະຖານ"
+
+#: setup/ibus-libzhuyin-preferences.ui:58
+msgid "HSU Dvorak"
+msgstr "HSU Dvorak"
+
+#: setup/ibus-libzhuyin-preferences.ui:63
+msgid "DaChen CP26"
+msgstr "DaChen CP26"
+
+#: setup/ibus-libzhuyin-preferences.ui:68
+msgid "Hanyu Pinyin"
+msgstr "Hanyu Pinyin"
+
+#: setup/ibus-libzhuyin-preferences.ui:73
+msgid "Luoma Pinyin"
+msgstr "Luoma Pinyin"
+
+#: setup/ibus-libzhuyin-preferences.ui:78
+msgid "Secondary Bopomofo"
+msgstr "Bopomofo ສຳຮອງ"
+
+#: setup/ibus-libzhuyin-preferences.ui:134
+msgid "Use Chinese Mode When Start-up"
+msgstr "ໃຊ້ໂໝດພາສາຈີນເມື່ອເລີ່ມຕົ້ນ"
+
+#: setup/ibus-libzhuyin-preferences.ui:152
+msgid "Use Full Width When Start-up"
+msgstr "ໃຊ້ຄວາມກວ້າງເຕັມເມື່ອເລີ່ມຕົ້ນ"
+
+#: setup/ibus-libzhuyin-preferences.ui:170
+msgid "Use Traditional Chinese When Start-up"
+msgstr "ໃຊ້ພາສາຈີນຕົວເຕັມເມື່ອເລີ່ມຕົ້ນ"
+
+#: setup/ibus-libzhuyin-preferences.ui:188
+msgid "Always Input Numbers by Input Pad"
+msgstr "ປ້ອນຕົວເລກດ້ວຍແປ້ນຕົວເລກສະເໝີ"
+
+#: setup/ibus-libzhuyin-preferences.ui:206
+msgid "Use Space Key to Show Candidates"
+msgstr "ໃຊ້ປຸ່ມ Space ເພື່ອສະແດງຕົວເລືອກຄຳສັບ"
+
+#: setup/ibus-libzhuyin-preferences.ui:224
+msgid "Show Candidates After the Cursor"
+msgstr "ສະແດງຕົວເລືອກຄຳສັບຫຼັງເຄີເຊີ"
+
+#: setup/ibus-libzhuyin-preferences.ui:246
+msgid "Inputting"
+msgstr "ກຳລັງປ້ອນຂໍ້ມູນ"
+
+#: setup/ibus-libzhuyin-preferences.ui:271
+msgid "Keyboard Layout"
+msgstr "ຜັງແປ້ນພິມ"
+
+#: setup/ibus-libzhuyin-preferences.ui:285
+msgid "Candidate Choose Keys"
+msgstr "ປຸ່ມເລືອກຄຳສັບ"
+
+#: setup/ibus-libzhuyin-preferences.ui:319
+msgid "Candidates per Page"
+msgstr "ຈຳນວນຕົວເລືອກຕໍ່ໜ້າ"
+
+#: setup/ibus-libzhuyin-preferences.ui:369
+msgid "Require tone information"
+msgstr "ຕ້ອງການຂໍ້ມູນວັນນະຍຸດ"
+
+#: setup/ibus-libzhuyin-preferences.ui:397
+msgid "Keyboard"
+msgstr "ແປ້ນພິມ"
+
+#: setup/ibus-libzhuyin-preferences.ui:412
+msgid "Enable Fuzzy Zhuyin"
+msgstr "ເປີດໃຊ້ Zhuyin ແບບໃກ້ຄຽງ"
+
+#: setup/ibus-libzhuyin-preferences.ui:430
+msgid "l <=> n"
+msgstr "l <=> n"
+
+#: setup/ibus-libzhuyin-preferences.ui:447
+msgid "f <=> h"
+msgstr "f <=> h"
+
+#: setup/ibus-libzhuyin-preferences.ui:464
+msgid "l <=> r"
+msgstr "l <=> r"
+
+#: setup/ibus-libzhuyin-preferences.ui:481
+msgid "g <=> k"
+msgstr "g <=> k"
+
+#: setup/ibus-libzhuyin-preferences.ui:498
+msgid "c <=> ch"
+msgstr "c <=> ch"
+
+#: setup/ibus-libzhuyin-preferences.ui:515
+msgid "z <=> zh"
+msgstr "z <=> zh"
+
+#: setup/ibus-libzhuyin-preferences.ui:532
+msgid "s <=> sh"
+msgstr "s <=> sh"
+
+#: setup/ibus-libzhuyin-preferences.ui:549
+msgid "an <=> ang"
+msgstr "an <=> ang"
+
+#: setup/ibus-libzhuyin-preferences.ui:566
+msgid "in <=> ing"
+msgstr "in <=> ing"
+
+#: setup/ibus-libzhuyin-preferences.ui:583
+msgid "en <=> eng"
+msgstr "en <=> eng"
+
+#: setup/ibus-libzhuyin-preferences.ui:616
+msgid "Fuzzy Zhuyin"
+msgstr "Zhuyin ແບບໃກ້ຄຽງ"
+
+#: setup/ibus-libzhuyin-preferences.ui:638
+msgid "User Symbols"
+msgstr "ສັນຍະລັກຂອງຜູ້ໃຊ້"
+
+#: setup/ibus-libzhuyin-preferences.ui:654
+#: setup/ibus-libzhuyin-preferences.ui:697
+msgid "Edit"
+msgstr "ແກ້ໄຂ"
+
+#: setup/ibus-libzhuyin-preferences.ui:681
+msgid "Easy Symbols"
+msgstr "ສັນຍະລັກແບບງ່າຍ"
+
+#: setup/ibus-libzhuyin-preferences.ui:727
+#: setup/ibus-libzhuyin-preferences.ui:844
+msgid "User Phrases"
+msgstr "ວະລີຂອງຜູ້ໃຊ້"
+
+#: setup/ibus-libzhuyin-preferences.ui:737
+msgid "Clear"
+msgstr "ລຶບລ້າງ"
+
+#: setup/ibus-libzhuyin-preferences.ui:752
+msgid "Import"
+msgstr "ນຳເຂົ້າ"
+
+#: setup/ibus-libzhuyin-preferences.ui:780
+msgid "Clear All Data"
+msgstr "ລຶບລ້າງຂໍ້ມູນທັງໝົດ"
+
+#: setup/ibus-libzhuyin-preferences.ui:811
+msgid ""
+"<b>Dictionary File Format:</b>\n"
+"  Each line contains the following:\n"
+"    \"phrase zhuyin\"\n"
+"  like \"你好 ㄋㄧˇ ㄏㄠˇ\"."
+msgstr ""
+"<b>ຮູບແບບໄຟລ໌ພົດຈະນານຸກົມ:</b>\n"
+"  ແຕ່ລະແຖວປະກອບດ້ວຍ:\n"
+"    \"ວະລີ zhuyin\"\n"
+"  ຕົວຢ່າງ \"你好 ㄋㄧˇ ㄏㄠˇ\"."
+
+#: setup/ibus-libzhuyin-preferences.ui:822
+msgid "Help"
+msgstr "ຊ່ວຍເຫຼືອ"
+
+#: setup/ibus-libzhuyin-preferences.ui:883
+msgid "<big><b>IBus Zhuyin %s</b></big>"
+msgstr "<big><b>IBus Zhuyin %s</b></big>"
+
+#: setup/ibus-libzhuyin-preferences.ui:896
+msgid "New Zhuyin input method for IBus"
+msgstr "ວິທີການປ້ອນຂໍ້ມູນ Zhuyin ໃໝ່ສຳລັບ IBus"
+
+#: setup/ibus-libzhuyin-preferences.ui:908
+msgid "<small>Copyright (c) 2013-2014 Peng Wu</small>"
+msgstr "<small>ສະຫງວນລິຂະສິດ (c) 2013-2014 Peng Wu</small>"
+
+#: setup/ibus-libzhuyin-preferences.ui:936
+msgid ""
+"<small>\n"
+"<b>Authors:</b>\n"
+"Peng Wu\n"
+"Peng Huang\n"
+"...\n"
+"\n"
+"<b>Contributors:</b>\n"
+"...\n"
+"</small>"
+msgstr ""
+"<small>\n"
+"<b>ຜູ້ຂຽນ:</b>\n"
+"Peng Wu\n"
+"Peng Huang\n"
+"...\n"
+"\n"
+"<b>ຜູ້ປະກອບສ່ວນ:</b>\n"
+"...\n"
+"</small>"
+
+#: setup/ibus-libzhuyin-preferences.ui:965
+msgid "About"
+msgstr "ກ່ຽວກັບ"
+
+#: data/ibus-setup-libzhuyin.desktop.in:2
+msgid "IBus LibZhuyin Setup"
+msgstr "ການຕັ້ງຄ່າ IBus LibZhuyin"
+
+#: data/ibus-setup-libzhuyin.desktop.in:3
+msgid "Set ibus-libzhuyin Preferences"
+msgstr "ຕັ້ງຄ່າຄວາມມັກຂອງ ibus-libzhuyin"

@@ -2,14 +2,15 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the ibus-libzhuyin package.
 # Giannis Antypas <gianni.antypas@gmail.com>, 2024.
+# Lefteris T <lefteris592@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: ibus-libzhuyin 1.10.2\n"
 "Report-Msgid-Bugs-To: https://github.com/libzhuyin/ibus-libzhuyin/issues/"
 "new\n"
 "POT-Creation-Date: 2025-11-06 12:25+0800\n"
-"PO-Revision-Date: 2024-09-08 13:38+0000\n"
-"Last-Translator: Giannis Antypas <gianni.antypas@gmail.com>\n"
+"PO-Revision-Date: 2026-09-03 10:18+0000\n"
+"Last-Translator: Lefteris T <lefteris592@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/ibus-"
 "libzhuyin/main/el/>\n"
 "Language: el\n"
@@ -17,47 +18,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: src/ZYZhuyinProperties.cc:39 src/ZYZhuyinProperties.cc:92
 msgid "Chinese"
-msgstr ""
+msgstr "Κινέζικα"
 
 #: src/ZYZhuyinProperties.cc:40 src/ZYZhuyinProperties.cc:93
 msgid "English"
-msgstr ""
+msgstr "Αγγλικά"
 
 #: src/ZYZhuyinProperties.cc:45 src/ZYZhuyinProperties.cc:104
 msgid "Switch to English Mode"
-msgstr ""
+msgstr "Αλλαγή σε Λειτουργία Αγγλικών"
 
 #: src/ZYZhuyinProperties.cc:46 src/ZYZhuyinProperties.cc:105
 msgid "Switch to Chinese Mode"
-msgstr ""
+msgstr "Αλλαγή σε Λειτουργία Κινέζικων"
 
 #: src/ZYZhuyinProperties.cc:50 src/ZYZhuyinProperties.cc:114
 msgid "Full Width"
-msgstr ""
+msgstr "Πλήρες Πλάτος"
 
 #: src/ZYZhuyinProperties.cc:51 src/ZYZhuyinProperties.cc:115
 msgid "Half Width"
-msgstr ""
+msgstr "Μισό Πλάτος"
 
 #: src/ZYZhuyinProperties.cc:56 src/ZYZhuyinProperties.cc:120
 msgid "Switch to Half Width Mode"
-msgstr ""
+msgstr "Αλλαγή σε Λειτουργία Μισού Πλάτους"
 
 #: src/ZYZhuyinProperties.cc:57 src/ZYZhuyinProperties.cc:121
 msgid "Switch to Full Width Mode"
-msgstr ""
+msgstr "Αλλαγή σε Λειτουργία Πλήρους Πλάτους"
 
 #: src/ZYZhuyinProperties.cc:61 src/ZYZhuyinProperties.cc:130
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "Παραδοσιακά Κινεζικά"
 
 #: src/ZYZhuyinProperties.cc:62 src/ZYZhuyinProperties.cc:131
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "Απλοποιημένα Κινεζικά"
 
 #: src/ZYZhuyinProperties.cc:67 src/ZYZhuyinProperties.cc:136
 msgid "Switch to Simplfied Chinese Mode"
